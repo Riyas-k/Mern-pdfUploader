@@ -44,3 +44,12 @@
 .form-control{
   border-color: black !important;
 }
+
+.pdf-div{
+  padding: 50px;
+  background-color: #dedede;
+  margin-top: 50px;
+}
+canvas.react-pdf__Page__canvas{
+  margin-bottom: 50px;
+}
